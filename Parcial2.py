@@ -1,5 +1,5 @@
-#Parcial 2 de Simon Villa Escobar
-#Las explicaciones (sustentaciones) del codigo estan al final de este codigo
+
+
 import time
 import threading
 
